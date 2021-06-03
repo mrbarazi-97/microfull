@@ -1,0 +1,26 @@
+{
+  "name": "microfull",
+  "version": "1.0.0",
+  "description": "microservices full stack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbarazi-97/microfull.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbarazi-97/microfull/issues"
+  },
+  "homepage": "https://github.com/mrbarazi-97/microfull#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "create-react-app": "^4.0.3",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
